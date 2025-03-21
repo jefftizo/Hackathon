@@ -1,2 +1,2 @@
-# Hackathon
-my repository for hackathon project
+# Data Analysis Hackathon 2025: E-commerce Sales and Customer Insights
+By Jefferson Mwatati
